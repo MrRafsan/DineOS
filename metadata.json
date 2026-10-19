@@ -1,0 +1,6 @@
+{
+  "name": "ChillyPOS - Restaurant POS System",
+  "description": "Professional restaurant point of sale system with dine-in table management, delivery channels, KDS, inventory, order processing, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
